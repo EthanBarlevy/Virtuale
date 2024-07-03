@@ -17,6 +17,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
